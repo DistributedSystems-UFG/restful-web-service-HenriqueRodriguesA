@@ -17,7 +17,7 @@ Seguindo o modelo dos exemplos para chamar essa função usa o comando:
 
 b) check for errors, such as when trying to update information for a employee that does not exist;
 
-Foi adicionado checagem para os erros 400 e 404 onde o primeira a variável necessária não é informada e o segundo o item que tá sendo procurado para atualizar não existe  
+Foi adicionado checagem para os erros 400 e 404 onde no primeiro a variável necessária não é informada e o segundo o item que tá sendo procurado para atualizar não existe  
 
 c) retrieve the average salary, considering all the employees;
 
